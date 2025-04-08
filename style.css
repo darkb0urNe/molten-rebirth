@@ -1,0 +1,16 @@
+body {
+   background-colour: #0f0f0f;
+   color: #e0e0e0;
+   font-family: 'Courier New', monospace;
+   text-align: center;
+   padding-top: 100px;
+}
+
+.container {
+   border: 2px solid #444;
+   padding: 30px;
+   margin:auto;
+   width: 60%;
+   background-color: #1a1a1a;
+   border-radius: 10px;
+}
